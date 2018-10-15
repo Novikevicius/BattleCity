@@ -1,0 +1,89 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730 (ID=0xf02)
+    Vendor:   NVIDIA
+    VRAM:     2000 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.7_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.7_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.7_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.7_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.7_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.7_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.7_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.7_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.7_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.7_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.7_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.7_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.060 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.973863 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.265923 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 794.
+Total: 0.668651 ms (FindLiveObjects: 0.063393 ms CreateObjectMapping: 0.030775 ms MarkObjects: 0.507933 ms  DeleteObjects: 0.065497 ms)
+
+NotImplementedException
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NotImplementedException
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NotImplementedException
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NotImplementedException
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NotImplementedException
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You may left bullet prefab on the scene
+  at BattleCity.Destroyable.DestroyIfOutOfBorders () [0x00000] in <filename unknown>:0 
+You may left bullet prefab on the scene
+  at BattleCity.Destroyable.DestroyIfOutOfBorders () [0x00000] in <filename unknown>:0 
+Shield is active. To reset it use Reset() method
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NotImplementedException
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NotImplementedException
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Shield is active. To reset it use Reset() method
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NotImplementedException
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.366360 ms
+
+Unloading 369 unused Assets to reduce memory usage. Loaded Objects now: 318.
+Total: 1.917572 ms (FindLiveObjects: 0.066549 ms CreateObjectMapping: 0.030249 ms MarkObjects: 0.126522 ms  DeleteObjects: 1.692672 ms)
+
+NotImplementedException: The requested feature is not implemented.
+  at BattleCity.MainMenu.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 6490 -> priority: 1 

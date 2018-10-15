@@ -1,0 +1,47 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920MX (ID=0x134f)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   25.21.14.1616
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_v1.2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_v1.2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_v1.2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_v1.2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_v1.2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_v1.2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_v1.2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_v1.2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_v1.2_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_v1.2_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_v1.2_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_v1.2_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.180 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.165718 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.702904 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 8177.
+Total: 2.374466 ms (FindLiveObjects: 0.654507 ms CreateObjectMapping: 0.314621 ms MarkObjects: 1.359544 ms  DeleteObjects: 0.044607 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.940151 ms
+
+Unloading 157 unused Assets to reduce memory usage. Loaded Objects now: 305.
+Total: 0.281462 ms (FindLiveObjects: 0.026053 ms CreateObjectMapping: 0.014211 ms MarkObjects: 0.102242 ms  DeleteObjects: 0.138165 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.235670 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 519.
+Total: 0.143691 ms (FindLiveObjects: 0.014211 ms CreateObjectMapping: 0.013026 ms MarkObjects: 0.098294 ms  DeleteObjects: 0.017764 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 698 -> priority: 1 
+  Thread -> id: e3c -> priority: 1 

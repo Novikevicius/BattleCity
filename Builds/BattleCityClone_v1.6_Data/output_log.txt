@@ -1,0 +1,40 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730 (ID=0xf02)
+    Vendor:   NVIDIA
+    VRAM:     2000 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.6_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.6_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.6_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.6_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.6_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.6_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.6_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.6_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.6_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.6_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.6_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Repositories\BattleCityClone\BattleCityClone\Builds\BattleCityClone_v1.6_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.042 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.324414 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 17.860520 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 8338.
+Total: 6.912205 ms (FindLiveObjects: 1.072157 ms CreateObjectMapping: 0.219639 ms MarkObjects: 5.564906 ms  DeleteObjects: 0.054449 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.817320 ms
+
+Unloading 286 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 35.334106 ms (FindLiveObjects: 0.055238 ms CreateObjectMapping: 0.029460 ms MarkObjects: 0.129153 ms  DeleteObjects: 35.119201 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1884 -> priority: 1 
