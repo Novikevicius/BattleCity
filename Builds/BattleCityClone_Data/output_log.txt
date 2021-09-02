@@ -1,35 +1,39 @@
 Initialize engine version: 2017.1.0f3 (472613c02cf7)
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce 920MX (ID=0x134f)
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
     Vendor:   NVIDIA
-    VRAM:     2010 MB
-    Driver:   25.21.14.1616
+    VRAM:     3962 MB
+    Driver:   27.21.14.6192
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
-Loading C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
-Platform assembly: C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_Data\Managed\System.dll (this message is harmless)
-Platform assembly: C:\GitHub\BattleCity\BattleCityClone\Builds\BattleCityClone_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.219 seconds
+Platform assembly: C:\Repos\BattleCity\Builds\BattleCityClone_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Repos\BattleCity\Builds\BattleCityClone_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Repos\BattleCity\Builds\BattleCityClone_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Repos\BattleCity\Builds\BattleCityClone_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Repos\BattleCity\Builds\BattleCityClone_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Repos\BattleCity\Builds\BattleCityClone_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Repos\BattleCity\Builds\BattleCityClone_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Repos\BattleCity\Builds\BattleCityClone_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Repos\BattleCity\Builds\BattleCityClone_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Repos\BattleCity\Builds\BattleCityClone_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Repos\BattleCity\Builds\BattleCityClone_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Repos\BattleCity\Builds\BattleCityClone_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.022 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.122295 ms
+UnloadTime: 4.722500 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.195246 ms
+UnloadTime: 4.699600 ms
 
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 7999.
-Total: 2.085898 ms (FindLiveObjects: 0.729117 ms CreateObjectMapping: 0.066714 ms MarkObjects: 1.252565 ms  DeleteObjects: 0.037107 ms)
+Total: 1.445000 ms (FindLiveObjects: 0.365800 ms CreateObjectMapping: 0.075800 ms MarkObjects: 0.971200 ms  DeleteObjects: 0.031800 ms)
 
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: 2010 -> priority: 1 
-  Thread -> id: 21b4 -> priority: 1 
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 3c2c -> priority: 1 
+  Thread -> id: 61b0 -> priority: 1 
+  Thread -> id: 5898 -> priority: 1 
+  Thread -> id: 4300 -> priority: 1 
+  Thread -> id: 4c9c -> priority: 1 
+  Thread -> id: 3ac4 -> priority: 1 

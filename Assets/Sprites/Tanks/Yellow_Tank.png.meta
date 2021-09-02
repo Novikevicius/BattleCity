@@ -1,72 +1,195 @@
 fileFormatVersion: 2
 guid: 8362b8150474cda40a61bc2604e28922
-timeCreated: 1502369735
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Yellow_Tank_0
-    21300002: Yellow_Tank_1
-    21300004: Yellow_Tank_2
-    21300006: Yellow_Tank_3
-    21300008: Yellow_Tank_4
-    21300010: Yellow_Tank_5
-    21300012: Yellow_Tank_6
-    21300014: Yellow_Tank_7
-    21300016: Yellow_Tank_8
-    21300018: Yellow_Tank_9
-    21300020: Yellow_Tank_10
-    21300022: Yellow_Tank_11
-    21300024: Yellow_Tank_12
-    21300026: Yellow_Tank_13
-    21300028: Yellow_Tank_14
-    21300030: Yellow_Tank_15
-    21300032: Yellow_Tank_16
-    21300034: Yellow_Tank_17
-    21300036: Yellow_Tank_18
-    21300038: Yellow_Tank_19
-    21300040: Yellow_Tank_20
-    21300042: Yellow_Tank_21
-    21300044: Yellow_Tank_22
-    21300046: Yellow_Tank_23
-    21300048: Yellow_Tank_24
-    21300050: Yellow_Tank_25
-    21300052: Yellow_Tank_26
-    21300054: Yellow_Tank_27
-    21300056: Yellow_Tank_28
-    21300058: Yellow_Tank_29
-    21300060: Yellow_Tank_30
-    21300062: Yellow_Tank_31
-    21300064: Yellow_Tank_32
-    21300066: Yellow_Tank_33
-    21300068: Yellow_Tank_34
-    21300070: Yellow_Tank_35
-    21300072: Yellow_Tank_36
-    21300074: Yellow_Tank_37
-    21300076: Yellow_Tank_38
-    21300078: Yellow_Tank_39
-    21300080: Yellow_Tank_40
-    21300082: Yellow_Tank_41
-    21300084: Yellow_Tank_42
-    21300086: Yellow_Tank_43
-    21300088: Yellow_Tank_44
-    21300090: Yellow_Tank_45
-    21300092: Yellow_Tank_46
-    21300094: Yellow_Tank_47
-    21300096: Yellow_Tank_48
-    21300098: Yellow_Tank_49
-    21300100: Yellow_Tank_50
-    21300102: Yellow_Tank_51
-    21300104: Yellow_Tank_52
-    21300106: Yellow_Tank_53
-    21300108: Yellow_Tank_54
-    21300110: Yellow_Tank_55
-    21300112: Yellow_Tank_56
-    21300114: Yellow_Tank_57
-    21300116: Yellow_Tank_58
-    21300118: Yellow_Tank_59
-    21300120: Yellow_Tank_60
-    21300122: Yellow_Tank_61
-  serializedVersion: 4
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Yellow_Tank_0
+  - first:
+      213: 21300002
+    second: Yellow_Tank_1
+  - first:
+      213: 21300004
+    second: Yellow_Tank_2
+  - first:
+      213: 21300006
+    second: Yellow_Tank_3
+  - first:
+      213: 21300008
+    second: Yellow_Tank_4
+  - first:
+      213: 21300010
+    second: Yellow_Tank_5
+  - first:
+      213: 21300012
+    second: Yellow_Tank_6
+  - first:
+      213: 21300014
+    second: Yellow_Tank_7
+  - first:
+      213: 21300016
+    second: Yellow_Tank_8
+  - first:
+      213: 21300018
+    second: Yellow_Tank_9
+  - first:
+      213: 21300020
+    second: Yellow_Tank_10
+  - first:
+      213: 21300022
+    second: Yellow_Tank_11
+  - first:
+      213: 21300024
+    second: Yellow_Tank_12
+  - first:
+      213: 21300026
+    second: Yellow_Tank_13
+  - first:
+      213: 21300028
+    second: Yellow_Tank_14
+  - first:
+      213: 21300030
+    second: Yellow_Tank_15
+  - first:
+      213: 21300032
+    second: Yellow_Tank_16
+  - first:
+      213: 21300034
+    second: Yellow_Tank_17
+  - first:
+      213: 21300036
+    second: Yellow_Tank_18
+  - first:
+      213: 21300038
+    second: Yellow_Tank_19
+  - first:
+      213: 21300040
+    second: Yellow_Tank_20
+  - first:
+      213: 21300042
+    second: Yellow_Tank_21
+  - first:
+      213: 21300044
+    second: Yellow_Tank_22
+  - first:
+      213: 21300046
+    second: Yellow_Tank_23
+  - first:
+      213: 21300048
+    second: Yellow_Tank_24
+  - first:
+      213: 21300050
+    second: Yellow_Tank_25
+  - first:
+      213: 21300052
+    second: Yellow_Tank_26
+  - first:
+      213: 21300054
+    second: Yellow_Tank_27
+  - first:
+      213: 21300056
+    second: Yellow_Tank_28
+  - first:
+      213: 21300058
+    second: Yellow_Tank_29
+  - first:
+      213: 21300060
+    second: Yellow_Tank_30
+  - first:
+      213: 21300062
+    second: Yellow_Tank_31
+  - first:
+      213: 21300064
+    second: Yellow_Tank_32
+  - first:
+      213: 21300066
+    second: Yellow_Tank_33
+  - first:
+      213: 21300068
+    second: Yellow_Tank_34
+  - first:
+      213: 21300070
+    second: Yellow_Tank_35
+  - first:
+      213: 21300072
+    second: Yellow_Tank_36
+  - first:
+      213: 21300074
+    second: Yellow_Tank_37
+  - first:
+      213: 21300076
+    second: Yellow_Tank_38
+  - first:
+      213: 21300078
+    second: Yellow_Tank_39
+  - first:
+      213: 21300080
+    second: Yellow_Tank_40
+  - first:
+      213: 21300082
+    second: Yellow_Tank_41
+  - first:
+      213: 21300084
+    second: Yellow_Tank_42
+  - first:
+      213: 21300086
+    second: Yellow_Tank_43
+  - first:
+      213: 21300088
+    second: Yellow_Tank_44
+  - first:
+      213: 21300090
+    second: Yellow_Tank_45
+  - first:
+      213: 21300092
+    second: Yellow_Tank_46
+  - first:
+      213: 21300094
+    second: Yellow_Tank_47
+  - first:
+      213: 21300096
+    second: Yellow_Tank_48
+  - first:
+      213: 21300098
+    second: Yellow_Tank_49
+  - first:
+      213: 21300100
+    second: Yellow_Tank_50
+  - first:
+      213: 21300102
+    second: Yellow_Tank_51
+  - first:
+      213: 21300104
+    second: Yellow_Tank_52
+  - first:
+      213: 21300106
+    second: Yellow_Tank_53
+  - first:
+      213: 21300108
+    second: Yellow_Tank_54
+  - first:
+      213: 21300110
+    second: Yellow_Tank_55
+  - first:
+      213: 21300112
+    second: Yellow_Tank_56
+  - first:
+      213: 21300114
+    second: Yellow_Tank_57
+  - first:
+      213: 21300116
+    second: Yellow_Tank_58
+  - first:
+      213: 21300118
+    second: Yellow_Tank_59
+  - first:
+      213: 21300120
+    second: Yellow_Tank_60
+  - first:
+      213: 21300122
+    second: Yellow_Tank_61
+  externalObjects: {}
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -84,6 +207,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -94,7 +219,7 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -106,41 +231,56 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Standalone
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Android
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -158,6 +298,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_1
       rect:
@@ -172,6 +319,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_2
       rect:
@@ -186,6 +340,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_3
       rect:
@@ -200,6 +361,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_4
       rect:
@@ -214,6 +382,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_5
       rect:
@@ -228,6 +403,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_6
       rect:
@@ -242,6 +424,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_7
       rect:
@@ -256,6 +445,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_8
       rect:
@@ -270,6 +466,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_9
       rect:
@@ -284,6 +487,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_10
       rect:
@@ -298,6 +508,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_11
       rect:
@@ -312,6 +529,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_12
       rect:
@@ -326,6 +550,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_13
       rect:
@@ -340,6 +571,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_14
       rect:
@@ -354,6 +592,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_15
       rect:
@@ -368,6 +613,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_16
       rect:
@@ -382,6 +634,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_17
       rect:
@@ -396,6 +655,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_18
       rect:
@@ -410,6 +676,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_19
       rect:
@@ -424,6 +697,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_20
       rect:
@@ -438,6 +718,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_21
       rect:
@@ -452,6 +739,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_22
       rect:
@@ -466,6 +760,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_23
       rect:
@@ -480,6 +781,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_24
       rect:
@@ -494,6 +802,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_25
       rect:
@@ -508,6 +823,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_26
       rect:
@@ -522,6 +844,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_27
       rect:
@@ -536,6 +865,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_28
       rect:
@@ -550,6 +886,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_29
       rect:
@@ -564,6 +907,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_30
       rect:
@@ -578,6 +928,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_31
       rect:
@@ -592,6 +949,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_32
       rect:
@@ -606,6 +970,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_33
       rect:
@@ -620,6 +991,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_34
       rect:
@@ -634,6 +1012,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_35
       rect:
@@ -648,6 +1033,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_36
       rect:
@@ -662,6 +1054,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_37
       rect:
@@ -676,6 +1075,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_38
       rect:
@@ -690,6 +1096,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_39
       rect:
@@ -704,6 +1117,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_40
       rect:
@@ -718,6 +1138,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_41
       rect:
@@ -732,6 +1159,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_42
       rect:
@@ -746,6 +1180,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_43
       rect:
@@ -760,6 +1201,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_44
       rect:
@@ -774,6 +1222,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_45
       rect:
@@ -788,6 +1243,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_46
       rect:
@@ -802,6 +1264,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_47
       rect:
@@ -816,6 +1285,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_48
       rect:
@@ -830,6 +1306,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_49
       rect:
@@ -844,6 +1327,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_50
       rect:
@@ -858,6 +1348,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_51
       rect:
@@ -872,6 +1369,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_52
       rect:
@@ -886,6 +1390,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_53
       rect:
@@ -900,6 +1411,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_54
       rect:
@@ -914,6 +1432,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_55
       rect:
@@ -928,6 +1453,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_56
       rect:
@@ -942,6 +1474,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_57
       rect:
@@ -956,6 +1495,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_58
       rect:
@@ -970,6 +1516,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_59
       rect:
@@ -984,6 +1537,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_60
       rect:
@@ -998,6 +1558,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Yellow_Tank_61
       rect:
@@ -1012,9 +1579,26 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
