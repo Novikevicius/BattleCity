@@ -2,6 +2,7 @@
 Builds/
 Library/
 Logs/
+Temp/
 obj/
 Packages/packages-lock.json
 *csproj
