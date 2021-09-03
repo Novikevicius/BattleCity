@@ -1,0 +1,19 @@
+.vs/
+Builds/
+Library/
+Logs/
+obj/
+Packages/packages-lock.json
+*csproj
+*csproj.DotSettings
+*.sln
+*.userpref
+
+
+### ./Library exceptions
+!./Library/ProjectSettings.asset
+!./Library/BuildSettings.asset
+!./Library/EditorOnlyScriptingSettings.json
+!./Library/EditorSnapSettings.asset
+!./Library/EditorUserBuildSettings.asset
+!./Library/EditorUserSettings.asset
